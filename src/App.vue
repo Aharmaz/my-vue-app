@@ -1,8 +1,30 @@
 <template>
-  <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </nav>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand">Movies</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <router-link to="/">
+          <span class="nav-link">Home</span>
+        </router-link>        
+        <router-link to="/prices">
+          <span class="nav-link">prices</span>
+        </router-link>
+        <router-link to="/about">
+          <span class="nav-link">About</span>
+        </router-link>
+        <router-link to="/contact">
+          <span class="nav-link">Contact</span>
+        </router-link>
+      </ul>
+
+    </div>
+  </div>
+</nav>
+<br><br>
   <router-view/>
 </template>
 
