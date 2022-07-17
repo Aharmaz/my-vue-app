@@ -1,8 +1,34 @@
 <template>
-    <h1>I am the prices view</h1>
+    <section class="lis-bg-light">
+        <div class="container">
+            <div class="row justify-content-center">
+                    <div class="col-12 col-md-10 text-center">
+                        <div class="heading pb-4">
+                            <h2>Choose Your Plan</h2>
+                            <h5 class="font-weight-normal lis-light">Discover &amp; connect with top-rated local businesses</h5>
+                        </div>
+                    </div>
+            </div>
+            <div class="row">
+                <Child />
+                <Student />
+                <Adult />
+            </div>
+        </div>
+    </section>
+    <br>
+    <br>
 </template>
 
 <script>
+
+import Child from '@/components/Child.vue'
+import Student from '@/components/Student.vue'
+import Adult from '@/components/Adult.vue'
+
+
+
+
 export default {
     name: "Prices",
     data() {
@@ -10,5 +36,16 @@ export default {
             
         }
     },
+    components:  {
+        Child,
+        Student,
+        Adult
+
+    }
 }
 </script>
+
+<style scoped>
+ 
+ 
+</style>

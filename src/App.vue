@@ -11,10 +11,7 @@
           <span class="nav-link">Home</span>
         </router-link>        
         <router-link to="/prices">
-          <span class="nav-link">prices</span>
-        </router-link>
-        <router-link to="/about">
-          <span class="nav-link">About</span>
+          <span class="nav-link">Prices</span>
         </router-link>
         <router-link to="/contact">
           <span class="nav-link">Contact</span>
