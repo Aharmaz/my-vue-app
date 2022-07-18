@@ -4,14 +4,14 @@
                         <div class="price-table">
                             <div class="price-header lis-bg-light lis-rounded-top py-4 border border-bottom-0 lis-brd-light">
                                 <h5 class="text-uppercase lis-latter-spacing-2">Child</h5>
-                                <h1 class="display-4 lis-font-weight-500"><sup>$</sup> 39 <small>/movie</small></h1>
-                                <p class="mb-0">Basic User Membership</p>
+                                <h1 class="display-4 lis-font-weight-500"><sup>$</sup> 6 <small>/movie</small></h1>
+                                <p class="mb-0">4 - 18 years old</p>
                             </div>
                             <div class="border border-top-0 lis-brd-light bg-white py-5 lis-rounded-bottom">
                                 <ul class="list-unstyled lis-line-height-3">
-                                    <li>One Time Fee</li>
-                                    <li>One Listing</li>
-                                    <li>90 Days Availability</li>
+                                    <li>Free water</li>
+                                    <li>Free soda</li>
+                                    <li>Pop-corn on demand</li>
                                 </ul>
                                 
                                 

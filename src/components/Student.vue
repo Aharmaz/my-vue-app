@@ -3,14 +3,14 @@
                         <div class="price-table active">
                             <div class="price-header lis-bg-primary py-4 text-white lis-rounded-top">
                                 <h5 class="text-uppercase lis-latter-spacing-2 text-white">STUDENT</h5>
-                                <h1 class="display-4 lis-font-weight-500 text-white"><sup>$</sup> 69 <small>/movie</small></h1>
-                                <p class="mb-0">Permium User Membership</p>
+                                <h1 class="display-4 lis-font-weight-500 text-white"><sup>$</sup> 5 <small>/movie</small></h1>
+                                <p class="mb-0">College student</p>
                             </div>
                             <div class="border border-top-0 lis-brd-light bg-white py-5 lis-rounded-bottom">
                                 <ul class="list-unstyled lis-line-height-3">
-                                    <li>One Time Fee</li>
-                                    <li>One Listing</li>
-                                    <li>90 Days Availability</li>
+                                    <li>Free water</li>
+                                    <li>Free soda</li>
+                                    <li>Pop-corn on demand</li>
                                 </ul>
                                
                             </div>

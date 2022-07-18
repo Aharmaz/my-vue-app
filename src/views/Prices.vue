@@ -4,8 +4,8 @@
             <div class="row justify-content-center">
                     <div class="col-12 col-md-10 text-center">
                         <div class="heading pb-4">
-                            <h2>Choose Your Plan</h2>
-                            <h5 class="font-weight-normal lis-light">Discover &amp; connect with top-rated local businesses</h5>
+                            <h2>Pick Your Profile</h2>
+                            <h5 class="font-weight-normal lis-light">Discover &amp; our different offers</h5>
                         </div>
                     </div>
             </div>
